@@ -17,10 +17,10 @@ py.test test.py
 ```
 
 ### kit
-- *test.py* - test suite
-- *page* - pages for page object pattern
-- *helper* - helpers (P.S. in driver.py set valid path for chromedriver)
-- *locator* - dom locators
-- *driver* - dir for web drivers, apk and ipa
-- *result* - report dir
+- **test.py** - test suite
+- **page** - pages for page object pattern
+- **helper** - helpers (P.S. in driver.py set valid path for chromedriver)
+- **locator** - dom locators
+- **driver** - dir for web drivers, apk and ipa
+- **result** - report dir
 
