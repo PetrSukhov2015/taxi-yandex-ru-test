@@ -9,6 +9,14 @@
 | 4  |  critical | search test   | click demo with default from  | check order  | automatization|
 
 ## autotests
+### environmanet
+```
+windows
+chrome
+chromedriver
+set path to chrome driver in helper\driver.py
+python 3.7
+```
 ### installation
 ```
 git clone https://github.com/PetrSukhov2015/taxi-yandex-ru-test.git
