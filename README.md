@@ -2,7 +2,7 @@
 
 ##tests
 |id   |prior   |name   |steps   |result   |label|
-|-----|--------|-------|--------|---------|-----|
+| --- | ------ | ----- | ------ | ------- | --- |
 | 1  | blocker  | search test  | fill from,to,phone, call taxi, put code,check order  |  order is completed | automatization|
 |  2 | blocker  | search test  | don't fill anything, call taxi  | error message  | automatization|
 | 3  |  critical | search test   | click demo with default from  | check order  | automatization|
